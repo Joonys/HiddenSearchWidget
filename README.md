@@ -1,3 +1,3 @@
-|  #  | Project                                                        | Live Demo                                                 |
-| :-: | -------------------------------------------------------------- | --------------------------------------------------------- |
-| 04  | [Progress Steps](https://joonys.github.io/HiddenSearchWidget/) | [Live Demo](https://joonys.github.io/HiddenSearchWidget/) |
+|  #  | Project                                                              | Live Demo                                                 |
+| :-: | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| 04  | [Hidden Search Widget](https://joonys.github.io/HiddenSearchWidget/) | [Live Demo](https://joonys.github.io/HiddenSearchWidget/) |
